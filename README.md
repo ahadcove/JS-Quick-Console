@@ -10,7 +10,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## How to use
 
-#### Only activates with .py files
+#### Only activates with .js and .ts files
 
 * Highlight anything in the editor
 * Press Cmd+C (Mac), or Ctrl+C (Windows)
