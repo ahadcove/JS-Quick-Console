@@ -2,7 +2,7 @@
     "name": "js-quick-console",
     "displayName": "JS Quick Console",
     "description": "Quickly print out log messages",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "AhadCove",
     "author": {
         "name": "Ahad Cove"
