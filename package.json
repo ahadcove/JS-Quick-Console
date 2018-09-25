@@ -53,8 +53,8 @@
         "keybindings": [
             {
                 "command": "extension.log",
-                "key": "shift+ctrl+l",
-                "mac": "shift+cmd+l",
+                "key": "ctrl+c",
+                "mac": "cmd+c",
                 "when": "editorTextFocus"
             }
         ]
