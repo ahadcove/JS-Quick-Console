@@ -2,7 +2,7 @@
     "name": "js-quick-console",
     "displayName": "JS Quick Console",
     "description": "Quickly print out log messages",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "AhadCove",
     "author": {
         "name": "Ahad Cove"
@@ -53,8 +53,8 @@
         "keybindings": [
             {
                 "command": "extension.log",
-                "key": "ctrl+c",
-                "mac": "cmd+c",
+                "key": "ctrl+shift+l",
+                "mac": "cmd+shift+l",
                 "when": "editorTextFocus"
             }
         ]
